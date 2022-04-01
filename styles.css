@@ -1,0 +1,30 @@
+/*******tag selectores*******/
+body{
+  background-color:#D3E0DC;
+}
+hr{
+  background-color:#D3E0DC;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+
+h1{
+
+  color: #53B8BB;
+}
+
+h1:hover{
+   color: #055052;
+}
+
+h3{
+  color: #53B8BB;
+}
+
+/******class selectores*********/
+
+.sanjna{
+  background-color: white;
+}
